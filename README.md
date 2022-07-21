@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there I m vishal👋
 
-<!--
-**vishaal321/vishaal321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I love math, programming, hacking, and books
+🌱 I’m addicted to learning new things daily
+🌍 I am currently working on web development ( html, css, javascript ,react and nodejs.
+
 
 Here are some ideas to get you started:
 
